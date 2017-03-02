@@ -1,8 +1,8 @@
-#Snake Game
+#Caterpillar Game
 
-**Snake Game** who doesn't know about this game from the late 90's. 
+**Caterpillar Game** who doesn't know about this game from the late 90's. 
 
-In this game, there are three types of food for the snake:
+In this game, there are three types of food for the caterpillar:
 
 1. Good cabbage (Allow the snake to grow)
 2. Bad cabbage (Kill the snake)
